@@ -11,3 +11,4 @@ User Management CRUD Rest APIs application using SpringBoot
 - ### SpringBoot Actuators
 - ### Spring Boot Rest API Documentation using SpringDoc OpenAPI
 
+## Feel free to clone/download and use the project.
