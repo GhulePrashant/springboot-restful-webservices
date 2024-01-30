@@ -2,7 +2,7 @@
 
 User Management CRUD Rest APIs application using SpringBoot
 
-- ## Project covers :
+## Project covers :
 - ### DTO Pattern
 - ### Spring JPA
 - ### Mapping Libraries - ModelMapper and MapStruct
